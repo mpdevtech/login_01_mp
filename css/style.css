@@ -8,6 +8,9 @@ body {
 .logo {
     width: 250px;
 }
+.fs-3 {
+    color: #616161;
+}
 .font-small {
     font-size: 16px;
 }

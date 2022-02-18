@@ -1,0 +1,34 @@
+body {
+    height: 100%;
+    overflow: hidden;
+    /* background-color: #eeeeee; */
+    background-image: url(../css/img/bg-01.png);
+    font-family: 'Poppins';
+}
+.logo {
+    width: 250px;
+}
+.font-small {
+    font-size: 16px;
+}
+.btn-primary {
+    background-color: #ff00b3;
+    border: 2px solid #ff00b3;
+}
+.btn-primary:hover {
+    background-color: #be0085;
+    border: 2px solid #be0085;
+}
+a.text-secondary:hover {
+    transition: 0.4s;
+    color: #ff00b3 !important;
+}
+.font-small {
+    font-size: 14px;
+}
+.rounded {
+    border-radius: 30px !important;
+}
+.text-danger {
+    color: #616161 !important;
+}
